@@ -6,7 +6,7 @@
 		"start": "rollup --config -w",
 		"build": "rollup --config",
 		"watch": "rollup --config -w",
-		"format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
+		"format": "prettier --write \"**/the.tsx\""
 	},
 	"author": {
 		"name": "chazzox",
